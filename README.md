@@ -23,7 +23,7 @@ If you have questions about these instructions, please contact
 <mailto:support@unidata.ucar.edu>.
 
 Once this software is in place, Unidata Users Workshop staff and presenters will
-instruct participants how to make use this software.
+instruct participants how to make use of this software.
 
 ## 2015 Unidata Users Workshop Github Repository
 
