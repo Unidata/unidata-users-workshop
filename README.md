@@ -16,7 +16,7 @@ following these steps before your arrival at the workshop.
 
 ```
 conda config --add channels [some channels]
-conda create -n workshop python=2 [bunch of stuff]
+conda create -n workshop python=2 pip numpy scipy matplotlib ipython-notebook pandas netcdf4 dask xray
 ```
 
 If you have questions about these instructions, please contact
