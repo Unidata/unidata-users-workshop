@@ -16,7 +16,15 @@ following these steps before your arrival at the workshop.
 
 ```
 conda config --add channels [some channels]
-conda create -n workshop python=2 pip numpy scipy matplotlib ipython-notebook pandas netcdf4 dask xray
+conda create -n workshop-xray python=2 pip numpy scipy matplotlib ipython-notebook pandas netcdf4 dask xray
+conda create -n workshop-scikit python=2 scikit-learn scikit-image basemap
+```
+
+To activate or switch to a conda environment, you can `source activate
+<environment>`. For example,
+
+```
+source activate workshop-xray
 ```
 
 If you have questions about these instructions, please contact
