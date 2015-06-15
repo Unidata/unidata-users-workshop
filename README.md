@@ -15,9 +15,8 @@ following these steps before your arrival at the workshop.
 2. Once Miniconda is installed, from the command prompt, run these instructions:
 
 ```
-conda config --add channels [some channels]
 conda create -n workshop-xray python=2 pip numpy scipy matplotlib ipython-notebook pandas netcdf4 dask xray
-conda create -n workshop-scikit python=2 scikit-learn scikit-image basemap
+conda create -n workshop-scikit python=2 pip numpy scipy matplotlib pandas ipython-notebook netcdf4 scikit-learn scikit-image basemap
 ```
 
 To activate or switch to a conda environment, you can `source activate
