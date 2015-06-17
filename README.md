@@ -37,7 +37,7 @@ To activate or switch to a conda environment, you can `activate
 activate workshop-xray
 ```
 
-#### ipython notebook
+### jupyter notebook
 
 The presenters will probably ask you to run examples in the `ipython notebook`.
 You may wish to create a folder on your desktop, and from the command line `cd`
@@ -46,7 +46,16 @@ with the `ipython notebook` command. Once this software is in place, Unidata
 Users Workshop staff and presenters will instruct participants how to make use
 of this software.
 
-## 2015 Unidata Users Workshop Github Repository
+#### inline graphics
+
+You will probably be doing matplotlib visualizations in which case you will want
+to inline the graphics with this command:
+
+```
+%matplotlib inline
+```
+
+### 2015 Unidata Users Workshop Github Repository
 
 Presenters, participants and staff are encouraged to make use of this github
 repository for sharing of presentations and any material relevant to the Users
