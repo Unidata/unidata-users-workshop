@@ -19,12 +19,29 @@ conda create -n workshop-xray python=2 pip numpy scipy matplotlib ipython-notebo
 conda create -n workshop-scikit python=2 pip numpy scipy matplotlib pandas ipython-notebook netcdf4 scikit-learn scikit-image basemap
 ```
 
+### From a Unix command line (e.g., OS X terminal)
+
 To activate or switch to a conda environment, you can `source activate
 <environment>`. For example,
 
 ```
 source activate workshop-xray
 ```
+
+### From a Windows command line (e.g., cmd.exe)
+
+To activate or switch to a conda environment, you can `activate
+<environment>`. For example,
+
+```
+activate workshop-xray
+```
+
+#### ipython notebook
+
+The presenters will probably ask you to run examples in the `ipython notebook`.
+You may wish to create a folder on your desktop, and from the command line `cd`
+to that folder, `activate` (see above) an environment.
 
 If you have questions about these instructions, please contact
 <mailto:support@unidata.ucar.edu>.
