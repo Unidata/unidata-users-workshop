@@ -41,16 +41,18 @@ activate workshop-xray
 
 The presenters will probably ask you to run examples in the `ipython notebook`.
 You may wish to create a folder on your desktop, and from the command line `cd`
-to that folder, `activate` (see above) an environment.
-
-If you have questions about these instructions, please contact
-<mailto:support@unidata.ucar.edu>.
-
-Once this software is in place, Unidata Users Workshop staff and presenters will
-instruct participants how to make use of this software.
+to that folder, `activate` (see above) an environment, and start the notebook
+with the `ipython notebook` command. Once this software is in place, Unidata
+Users Workshop staff and presenters will instruct participants how to make use
+of this software.
 
 ## 2015 Unidata Users Workshop Github Repository
 
 Presenters, participants and staff are encouraged to make use of this github
 repository for sharing of presentations and any material relevant to the Users
 Workshop.
+
+### Questions
+
+If you have questions about these instructions, please contact
+<mailto:support@unidata.ucar.edu>.
