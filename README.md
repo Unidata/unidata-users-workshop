@@ -11,7 +11,7 @@ IPython Notebook) technology. For participants who wish to use Python during the
 workshop, please follow the instructions below. To save time, we suggest
 following these steps before your arrival at the workshop.
 
-1. [Install Miniconda (Python 2.7) from Continuum Analytics](http://conda.pydata.org/miniconda.html). ([Determine if your OS 32 or 64 bit](http://www.akaipro.com/kb/article/1616#os_32_or_64_bit))
+1. [Install Miniconda (Python 2.7) from Continuum Analytics](http://conda.pydata.org/miniconda.html). ([Determine if your OS 32 or 64 bit.](http://www.akaipro.com/kb/article/1616#os_32_or_64_bit))
 2. Once Miniconda is installed, from the command line (e.g., OS X terminal, cmd.exe), run these instructions:
 
 ```
