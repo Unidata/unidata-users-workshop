@@ -12,7 +12,7 @@ workshop, please follow the instructions below. To save time, we suggest
 following these steps before your arrival at the workshop.
 
 1. [Install Miniconda from Continuum Analytics](http://conda.pydata.org/miniconda.html)
-2. Once Miniconda is installed, from the command prompt, run these instructions:
+2. Once Miniconda is installed, from the command line (e.g., OS X terminal, cmd.exe), run these instructions:
 
 ```
 conda create -n workshop-xray python=2 pip numpy scipy matplotlib ipython-notebook pandas netcdf4 dask xray
