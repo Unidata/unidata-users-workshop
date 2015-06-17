@@ -17,6 +17,8 @@ following these steps before your arrival at the workshop.
 ```
 conda create -n workshop-xray python=2 pip numpy scipy matplotlib ipython-notebook pandas netcdf4 dask xray
 conda create -n workshop-scikit python=2 pip numpy scipy matplotlib pandas ipython-notebook netcdf4 scikit-learn scikit-image basemap
+conda create -n workshop-metpy python=2 pip numpy scipy matplotlib ipython-notebook netcdf4
+source activate workshop-metpy && pip install metpy siphon
 ```
 
 ### From a Unix command line (e.g., OS X terminal)
