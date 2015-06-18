@@ -1,5 +1,3 @@
-# PAGE UNDER CONSTRUCTION 
-
 # 2015 Unidata Users Workshop
 
 [Complete information on the 2015 Unidata Users Workshop](http://www.unidata.ucar.edu/events/2015UsersWorkshop/)
