@@ -30,6 +30,8 @@ conda create -n workshop-metpy python=2 pip numpy scipy matplotlib ipython-noteb
 source activate workshop-metpy && pip install metpy siphon
 ```
 
+If this command causes an error see note below about bash.
+
 #### on windows
 
 ```
