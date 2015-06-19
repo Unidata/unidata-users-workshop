@@ -23,8 +23,20 @@ conda create -n workshop-basic python=2 ipython-notebook
 
 ```
 conda create -n workshop-metpy python=2 pip numpy scipy matplotlib ipython-notebook netcdf4
+```
+#### on unix
+
+```
 source activate workshop-metpy && pip install metpy siphon
 ```
+
+#### on windows
+
+```
+activate workshop-metpy
+pip install metpy siphon
+```
+
 
 ### From a Unix command line (e.g., OS X terminal)
 
