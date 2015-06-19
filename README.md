@@ -47,6 +47,14 @@ To activate or switch to a conda environment, you can `source activate
 source activate workshop-xray
 ```
 
+To switch and/or deactivate environments:
+
+```
+source deactivate
+source activate <environment>
+```
+
+
 ### From a Windows command line (e.g., cmd.exe)
 
 To activate or switch to a conda environment, you can `activate
@@ -55,6 +63,14 @@ To activate or switch to a conda environment, you can `activate
 ```
 activate workshop-xray
 ```
+
+To switch and/or deactivate environments:
+
+```
+deactivate
+activate <environment>
+```
+
 
 ### jupyter notebook
 
