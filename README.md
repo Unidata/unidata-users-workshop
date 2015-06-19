@@ -15,7 +15,7 @@ following these steps before your arrival at the workshop.
 ```
 conda create -n workshop-scikit python=2 pip numpy scipy matplotlib pandas ipython-notebook netcdf4 scikit-learn scikit-image basemap
 conda create -n workshop-xray python=2 pip numpy scipy matplotlib ipython-notebook pandas netcdf4 dask xray
-conda create -n workshop-kevin python=2 pip numpy scipy matplotlib ipython-notebook pandas netcdf4 dask xray basemap
+conda create -n workshop-kevin python=2 pip numpy scipy matplotlib ipython-notebook netcdf4 basemap requests
 conda create -n workshop-basic python=2 ipython-notebook
 ```
 
@@ -27,7 +27,7 @@ source activate workshop-metpy && pip install metpy siphon
 ```
 
 ### From a Unix command line (e.g., OS X terminal)
-
+**If your default shell is NOT bash, first type "bash".**
 To activate or switch to a conda environment, you can `source activate
 <environment>`. For example,
 
