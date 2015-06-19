@@ -41,7 +41,7 @@ pip install metpy siphon
 
 
 ### From a Unix command line (e.g., OS X terminal)
-**If your default shell is NOT bash, first type "bash".**
+**If your default shell is NOT bash, first type `bash`.**
 To activate or switch to a conda environment, you can `source activate
 <environment>`. For example,
 
