@@ -68,6 +68,10 @@ Presenters, participants and staff are encouraged to make use of this github
 repository for sharing of presentations and any material relevant to the Users
 Workshop.
 
+### Specific download for files used in Kevin Tyle's hands-on session:
+http://www.atmos.albany.edu/facstaff/ktyle/triennial/
+(Download the zip file; extract it; and then ideally cd into that directory and launch ipython notebook from there)
+
 ### Questions
 
 If you have questions about these instructions, please contact
