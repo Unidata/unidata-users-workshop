@@ -102,6 +102,33 @@ Workshop.
 http://www.atmos.albany.edu/facstaff/ktyle/triennial/
 (Download the zip file; extract it; and then ideally cd into that directory and launch ipython notebook from there)
 
+### When the workshop is over, how can I continue using these technologies?
+
+#### git
+
+We have been using git version control technology to share and collaborate on
+the workshop material. The problem is git is not easy to use. Fortunately, there
+are git clients/apps/user interfaces that can make git less painful. One such
+tool is a tool called
+[https://www.atlassian.com/software/sourcetree/overview?_mid%3De4dbc985d703a1ac9bc8550f030af3cf&gclid%3DCLaM86jipsYCFZKFaQodtvECug](SourceTree). If
+git seems intimidating, please consider using a git client such as SourceTree to
+obtain the workshop material or to interface with other git repositories.
+
+#### conda
+
+The other tool we have been using is conda. conda has made working with Python
+scientific programming environment *much* easier. This README explains how to
+download and install conda. Moreover, many, many scientific programming
+libraries are distributed via conda. Hopefully, conda should satisfy most of
+your needs for installing scientific computing libraries.
+
+#### Unidata Training Workshops
+
+Unidata will be providing git and conda training at the
+[Using Unidata Technologies with Python](https://www.unidata.ucar.edu/events/2015TrainingWorkshop/#classes)
+, July 20 - 22.
+
+
 ### Questions
 
 If you have questions about these instructions, please contact
