@@ -110,9 +110,9 @@ We have been using git version control technology to share and collaborate on
 the workshop material. The problem is git is not easy to use. Fortunately, there
 are git clients/apps/user interfaces that can make git less painful. One such
 tool is a tool called
-[https://www.atlassian.com/software/sourcetree/overview?_mid%3De4dbc985d703a1ac9bc8550f030af3cf&gclid%3DCLaM86jipsYCFZKFaQodtvECug](SourceTree). If
-git seems intimidating, please consider using a git client such as SourceTree to
-obtain the workshop material or to interface with other git repositories.
+[SourceTree](https://www.atlassian.com/software/sourcetree). If git seems
+intimidating, please consider using a git client such as SourceTree to obtain
+the workshop material or to interface with other git repositories.
 
 #### conda
 
