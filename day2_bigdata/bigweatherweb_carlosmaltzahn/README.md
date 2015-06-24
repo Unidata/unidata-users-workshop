@@ -151,8 +151,8 @@ get feedback from them.
     ```python
     import xray
 
-    d1 = xray.open_dataset(cldc_url)
-    d2 = xray.open_dataset(lflx_url)
+    d1 = xray.open_dataset(bww.get_url('cldc_mean'))
+    d2 = xray.open_dataset(bww.get_url('lflx_mean'))
 
     d1
 
