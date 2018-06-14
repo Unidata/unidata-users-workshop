@@ -15,7 +15,7 @@ following these steps before your arrival at the workshop.
 ```
 git clone https://github.com/Unidata/unidata-users-workshop
 
-cd unidata-python-workshop
+cd unidata-users-workshop
 
 conda env create -f environment.yml
 ```
@@ -27,7 +27,7 @@ switch to a conda environment, you can `source activate <environment>`.
 For example,
 
 ```shell
-source activate unidata-workshop
+source activate unidata-users-workshop
 ```
 
 To switch and/or deactivate environments:
@@ -43,7 +43,7 @@ To activate or switch to a conda environment, you can `activate <environment>`.
 For example,
 
 ```shell
-activate unidata-workshop
+activate unidata-users-workshop
 ```
 
 To switch and/or deactivate environments:
