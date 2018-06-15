@@ -1,0 +1,20 @@
+name: users-workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - numpy
+  - matplotlib
+  - cartopy
+  - jupyter
+  - jupyterlab
+  - netcdf4
+  - imageio
+  - keras
+  - numba
+  - pandas
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - tensorflow
+  - tensorflow-gpu
