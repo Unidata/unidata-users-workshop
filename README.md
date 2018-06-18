@@ -62,8 +62,11 @@ If we need to update the Python package dependencies during the workshop, change
 
 ```shell
 deactivate users-workshop             # Windows systems
+   or
 source deactivate users-workshop      # Unix-like systems
+
 git pull origin master                # update the local files from the workshop repository
+
 conda env update -f environment.yml   # update the Python environment
 ```
 
