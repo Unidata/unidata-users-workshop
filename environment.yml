@@ -20,5 +20,4 @@ dependencies:
   - tensorflow-gpu
   - metpy
   - siphon
-  - datetime
   - xarray
