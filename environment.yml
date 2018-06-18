@@ -18,3 +18,7 @@ dependencies:
   - scikit-learn
   - tensorflow
   - tensorflow-gpu
+  - metpy
+  - siphon
+  - datetime
+  - xarray
