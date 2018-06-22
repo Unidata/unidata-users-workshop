@@ -9,7 +9,11 @@ Python programming language. If you want to follow along with these segments dur
 workshop, you can install a Python environment on your laptop by following the instructions below. We suggest installing the Python environment before you arrive at the workshop, but there will
 be time to ask questions about configuration during the first session on Monday morning.
 
-1. [Install Miniconda (Python 3.6)](https://conda.io/miniconda.html). We'll be using the conda package manager to install dependencies, so consider installing a conda-based Python for the workshop even if you have a different version installed already. If you have trouble installing Miniconda, you might find [this video](https://www.youtube.com/watch?v=-fOfyHYpKck) useful.
+1. [Install Miniconda (Python 3.6)](https://conda.io/miniconda.html). We'll be using the conda package manager to install dependencies, so consider installing a conda-based Python for the workshop even if you have a different version installed already. If you have trouble installing Miniconda, you might find [this video](https://www.youtube.com/watch?v=-fOfyHYpKck) useful.<br/>
+Note: By default, the Miniconda installer does not add the new python environment to your
+PATH environment variable. Adding the information to the PATH environment variable will make
+the software easier to use; unless you know that this will conflict with your existing
+configuration, we recommend you select the option to &ldquo;Add Anaconda to my PATH environment variable&rdquo; in the installer.
 1. Install the [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) distributed version control system software. (We will be using git and GitHub to distribute code.)
 1. Once git and Miniconda are installed, from the command line (e.g., OS X terminal, or cmd.exe on Windows), run these instructions:
 
