@@ -13,4 +13,6 @@ Presentations from the 2018 Users Workshop are hosted on Unidata's web server. Y
 ## Tuesday Presentations
 
 * Valliappa (Lak) Lakshmanan &mdash; [How Cloud Computing and Machine Learning are Transforming Science](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Lakshmanan_ML_Transforming_Science.pdf)
-* David Gagne &mdash; The Joy of Deep Learning: Simulated Mesocyclone Prediction
+* David Gagne &mdash; [The Joy of Deep Learning: Simulated Mesocyclone Prediction](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Gagne_Deep_Learning.pdf)
+* Luke Madaus &mdash; [WRF Simulations on the Cloud with Community Datasets](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Madaus_WRF_Downscaling.pdf)
+* Alex Haberlie &mdash; [Classifying Rainfall Regions in Weather Radar Mosaics](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Haberlie_Classifying_Rainfall_Regions.pdf)
