@@ -7,7 +7,5 @@ Presentations from the 2018 Users Workshop are hosted on Unidata's web server. Y
 * Kevin Goebbert &mdash; [Welcome &amp; Introduction](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Goebbert_Workshop_Introduction.pdf)
 * Mohan Ramamurthy &mdash; [Unidata Users Workshops: Past, Present, and Future](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Ramamurthy_Unidata.pdf)
 * Sandro Fiore &mdash; [The ENES Climate Analytics](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Fiore_ECAS.pdf)
-* Kevin Jorissen &mdash; [Main presentation](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Jorissen_AWS_Main.pdf)
-* Kevin Jorissen &mdash; [SageMaker](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Jorissen_AWS_SageMaker.pdf)
-* Kevin Jorissen &mdash; [Homework slide](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Jorissen_AWS_HomeworkSlide.pdf)
+* Kevin Jorissen &mdash; [Main presentation](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Jorissen_AWS_Main.pdf),  [SageMaker](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Jorissen_AWS_SageMaker.pdf), [Homework slide](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Jorissen_AWS_HomeworkSlide.pdf)
 * Joe Hamman &mdash; Reducing Time to Science with PANGEO
