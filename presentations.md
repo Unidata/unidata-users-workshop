@@ -13,3 +13,4 @@ Presentations from the 2018 Users Workshop are hosted on Unidata's web server. Y
 ## Tuesday Presentations
 
 * Valliappa (Lak) Lakshmanan &mdash; [How Cloud Computing and Machine Learning are Transforming Science](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Lakshmanan_ML_Transforming_Science.pdf)
+* David Gagne &mdash; The Joy of Deep Learning: Simulated Mesocyclone Prediction
