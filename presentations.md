@@ -16,3 +16,10 @@ Presentations from the 2018 Users Workshop are hosted on Unidata's web server. Y
 * David Gagne &mdash; [The Joy of Deep Learning: Simulated Mesocyclone Prediction](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Gagne_Deep_Learning.pdf)
 * Luke Madaus &mdash; [WRF Simulations on the Cloud with Community Datasets](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Madaus_WRF_Downscaling.pdf)
 * Alex Haberlie &mdash; [Classifying Rainfall Regions in Weather Radar Mosaics](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Haberlie_Classifying_Rainfall_Regions.pdf)
+
+## Wednesday Presentations
+
+* Fred Mosher &mdash; [Introduction to new GOES era Satellites and Accessing the Data](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Mosher_New_GOES.pdf)
+* Amanda Terborg &mdash; GOES-16 Dataflow and Uses within the NWS
+* Cameron Nixon &mdash; The GOES-16 GLM - Data Visualization and GLMTools
+* Kevin Goebbert &mdash; Using GOES-16 in Teaching Meteorology Using Python
