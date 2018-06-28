@@ -22,4 +22,4 @@ Presentations from the 2018 Users Workshop are hosted on Unidata's web server. Y
 * Fred Mosher &mdash; [Introduction to new GOES era Satellites and Accessing the Data](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Mosher_New_GOES.pdf)
 * Amanda Terborg &mdash; GOES-16 Dataflow and Uses within the NWS
 * Cameron Nixon &mdash; The GOES-16 GLM - Data Visualization and GLMTools
-* Kevin Goebbert &mdash; Using GOES-16 in Teaching Meteorology Using Python
+* Kevin Goebbert &mdash; [Using GOES-16 in Teaching Meteorology Using Python](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Goebbert_GOES16_satellite_in_classroom.pdf) also [Github site](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/)
