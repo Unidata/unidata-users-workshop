@@ -27,5 +27,5 @@ Presentations from the 2018 Users Workshop are hosted on Unidata's web server. Y
 ## Thursday Presentations
 
 * John Gotway &amp; Tressa Fowler &mdash; [Using the Model Evaluation Tool (MET)](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Gotway_MET_Ensemble.pdf)
-* Ryan Sobash &mdash; Web-based Visualization of Ensemble Forecast Datasets
+* Ryan Sobash &mdash; [Web-based Visualization of Ensemble Forecast Datasets](https://www.unidata.ucar.edu/events/2018UsersWorkshop/presentations/Sobash_d3_talk.pdf)
 * Tyler Wixtrom &mdash; Ensemble Forecast Visualization and Verification in Python
